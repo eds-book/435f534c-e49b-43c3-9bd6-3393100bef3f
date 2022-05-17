@@ -1,6 +1,13 @@
-name: template-jp
+name: agriculture-sensors-cosmosuk
 channels:
   - conda-forge
   - defaults
 dependencies:
   - python
+  - pandas
+  - intake
+  - intake-xarray
+  - hvplot
+  - xarray
+  - aiohttp
+  - scikit-image
