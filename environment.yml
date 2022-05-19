@@ -11,3 +11,4 @@ dependencies:
   - xarray
   - aiohttp
   - scikit-image
+  - pooch
