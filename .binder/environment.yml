@@ -1,4 +1,4 @@
-name: agriculture-sensors-cosmosuk
+name: agriculture-exploration-cosmosuk
 channels:
   - conda-forge
   - defaults
