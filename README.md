@@ -17,8 +17,8 @@
     <a href="https://notebooks.gesis.org/binder/v2/gh/Environmental-DS-Book/agriculture-exploration-cosmosuk/main?labpath=agriculture-exploration-cosmosuk.ipynb">
         <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
     </a>
-    <a href="https://github.com/Environmental-DS-Book/agriculture-exploration-cosmosuk/actions/workflows/publish.yml/badge.svg">
-        <img alt="Continuous integration badge" src="https://github.com/Environmental-DS-Book/agriculture-exploration-cosmosuk/actions/workflows/publish.yml/badge.svg">
+    <a href="https://github.com/Environmental-DS-Book/agriculture-exploration-cosmosuk/actions/workflows/render.yaml">
+        <img alt="Render" src="https://github.com/Environmental-DS-Book/agriculture-exploration-cosmosuk/actions/workflows/render.yaml/badge.svg">
     </a>
     <br/>
 </p>
