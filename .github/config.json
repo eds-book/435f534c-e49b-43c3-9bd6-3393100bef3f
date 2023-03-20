@@ -1,5 +1,5 @@
 {
-    "notebook_name": "agriculture-exploration-cosmosuk.ipynb",
+    "notebook_name": "notebook.ipynb",
     "kernel": "python",
-    "quay_image": "edsbook/agriculture-exploration-cosmosuk"
+    "quay_image": "edsbook/435f534c-e49b-43c3-9bd6-3393100bef3f"
 }
