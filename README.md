@@ -14,9 +14,6 @@
     <a href="https://github.com/eds-book-gallery/435f534c-e49b-43c3-9bd6-3393100bef3f/blob/main/LICENSE">
         <img alt="license" src="https://img.shields.io/badge/license-MIT-yellow.svg">
     </a>
-    <a href="https://notebooks.gesis.org/binder/v2/gh/eds-book-gallery/435f534c-e49b-43c3-9bd6-3393100bef3f/main?labpath=notebook.ipynb">
-        <img alt="binder" src="https://mybinder.org/badge_logo.svg">
-    </a>
     <a href="https://github.com/eds-book-gallery/435f534c-e49b-43c3-9bd6-3393100bef3f/actions/workflows/render.yaml">
         <img alt="render" src="https://github.com/eds-book-gallery/435f534c-e49b-43c3-9bd6-3393100bef3f/actions/workflows/render.yaml/badge.svg">
     </a>
