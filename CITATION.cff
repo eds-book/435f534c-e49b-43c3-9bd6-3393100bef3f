@@ -13,7 +13,7 @@ authors:
 version: v1.0.0 # This is automatically set using the bumpversion tool.
 identifiers:
   - type: doi
-    value: TBA
+    value: 10.5281/zenodo.8311780
     description: The concept DOI for the collection containing all versions of the notebook.
 abstract: "Notebook developed to demonstrate how to load and visualise daily hydrometeorological and soil data from the 2013-2019 public COSMOS-UK dataset."
 keywords:
