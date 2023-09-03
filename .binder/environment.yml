@@ -12,3 +12,4 @@ dependencies:
   - aiohttp
   - scikit-image
   - pooch
+  - dask==2023.3.1
