@@ -10,7 +10,7 @@ authors:
     affiliation: The Alan Turing Institute
   - name: "This EDS book notebook contributors"
     website: "https://github.com/eds-book-gallery/435f534c-e49b-43c3-9bd6-3393100bef3f/graphs/contributors"
-version: v1.0.7 # This is automatically set using the bumpversion tool.
+version: v1.0.8 # This is automatically set using the bumpversion tool.
 identifiers:
   - type: doi
     value: 10.5281/zenodo.8311780
