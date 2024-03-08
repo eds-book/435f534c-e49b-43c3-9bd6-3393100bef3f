@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-<img src="images/thumbnail.png" alt="thumbnail" width="300"/>
+<img src="images/thumbnail.png" alt="thumbnail" width="500"/>
 </p>
 
 # How to run
