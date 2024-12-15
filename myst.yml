@@ -5,6 +5,7 @@ extends:
 project:
   id: d0fdd58b-a82f-45e0-b588-f80601ebfe2b
   title: Cosmos-UK Soil Moisture (UKCEH)
+  subtitle: Exploration 2013-2019 public COSMOS-UK dataset
   authors:
     - id: acoca
       name: Alejandro Coca-Castro
