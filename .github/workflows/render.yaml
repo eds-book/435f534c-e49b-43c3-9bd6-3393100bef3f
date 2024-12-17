@@ -13,7 +13,7 @@ jobs:
     name: ${{ matrix.os }}
     runs-on: ${{ matrix.os }}
 
-    if: github.repository_owner == 'eds-book-gallery'
+    if: github.repository_owner == 'eds-book'
     strategy:
       fail-fast: false
       matrix:
