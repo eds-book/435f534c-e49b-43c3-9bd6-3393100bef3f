@@ -7,6 +7,7 @@ on:
     types:
       - completed
 
+# add permissions
 permissions: write-all
 
 # This job installs dependencies, build the jupyter notebook, and pushes it to `render`, a new `branch`
