@@ -1,0 +1,10 @@
+thumbnail: images/thumbnail.png
+tags:
+  domains:
+    - Hydrology
+  type:
+    - Exploration
+  issue:
+    - Standard
+  language:
+    - Python
