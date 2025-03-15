@@ -6,7 +6,7 @@ project:
   id: 435f534c-e49b-43c3-9bd6-3393100bef3f
   title: Cosmos-UK Soil Moisture (UKCEH) (Jupyter Notebook) published in the Environmental Data Science book
   short_title: Cosmos-UK Soil Moisture (UKCEH)
-  abstract: "Notebook developed to demonstrate how to load and visualise daily hydrometeorological and soil data from the 2013-2019 public COSMOS-UK dataset."
+  abstract: Notebook developed to demonstrate how to load and visualise daily hydrometeorological and soil data from the 2013-2019 public COSMOS-UK dataset.
   authors:
     - id: acoca
       name: Alejandro Coca-Castro
@@ -69,7 +69,7 @@ project:
   license:
     content: CC-BY-4.0
     code: MIT
-  date: '2023-09-02'
+  date: 2023-09-02
   toc:
     - file: notebook.ipynb
   exports:
