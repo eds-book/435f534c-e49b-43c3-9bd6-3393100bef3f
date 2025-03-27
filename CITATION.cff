@@ -23,10 +23,10 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.8311780
 keywords:
-  - environmental data science
-  - agriculture
-  - exploration
-  - hydrology dataset
+  - Hydrology
+  - Exploration
+  - Standard
+  - Python
 license: MIT
 license-url: https://opensource.org/license/MIT
 repository: https://github.com/eds-book/435f534c-e49b-43c3-9bd6-3393100bef3f
