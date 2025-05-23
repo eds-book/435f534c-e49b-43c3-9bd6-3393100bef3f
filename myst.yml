@@ -32,7 +32,7 @@ project:
     - id: mfry
       name: Matt Fry
       orcid: 0000-0003-1142-4039
-      url: mattfry-ceh
+      github: mattfry-ceh
       roles:
         - Writing – review & editing
       affiliations:
@@ -72,6 +72,7 @@ project:
     code: MIT
   date: 2023-09-02
   toc:
+    - file: README.md
     - file: notebook.ipynb
   exports:
     - format: pdf
