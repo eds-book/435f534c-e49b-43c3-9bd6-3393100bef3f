@@ -20,8 +20,9 @@ contact:
     orcid: 0000-0002-9264-1539
     email: acoca@turing.ac.uk
 identifiers:
-  - type: doi
-    value: 10.5281/zenodo.8311780
+  - description: Open review report for this notebook
+    type: url
+    value: https://github.com/alan-turing-institute/environmental-ds-book/pull/50
 keywords:
   - Surface and Ground Water
   - Exploration
@@ -31,4 +32,4 @@ license: MIT
 license-url: https://opensource.org/license/MIT
 repository: https://github.com/eds-book/435f534c-e49b-43c3-9bd6-3393100bef3f
 type: software
-version: v2.0.0
+version: v2025.05.0
