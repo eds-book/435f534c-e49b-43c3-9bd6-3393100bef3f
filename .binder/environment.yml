@@ -5,7 +5,7 @@ channels:
 dependencies:
 - python==3.9
 - pandas
-- intake
+- intake==0.7.0
 - intake-xarray
 - hvplot
 - xarray
