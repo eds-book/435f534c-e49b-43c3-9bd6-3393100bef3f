@@ -1,16 +1,16 @@
 name: 435f534c-e49b-43c3-9bd6-3393100bef3f
 channels:
-  - conda-forge
-  - defaults
+- conda-forge
+- defaults
 dependencies:
-  - python==3.9
-  - pandas
-  - intake==0.7.*
-  - intake-xarray
-  - hvplot
-  - xarray
-  - aiohttp
-  - pooch
-  - dask==2023.3.1
-  - pip:
-      - scikit-image
+- python==3.9
+- pandas
+- intake==0.7.0
+- intake-xarray=0.7.0
+- hvplot
+- xarray
+- aiohttp==3.11.18
+- pooch
+- dask==2023.3.1
+- pip:
+  - scikit-image

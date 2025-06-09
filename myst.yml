@@ -1,0 +1,94 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+extends:
+  - https://raw.githubusercontent.com/eds-book/edsbook-config/main/edsbook.yml
+project:
+  id: 435f534c-e49b-43c3-9bd6-3393100bef3f
+  title: Cosmos-UK Soil Moisture (UKCEH) (Jupyter Notebook) published in the Environmental Data Science book
+  short_title: Cosmos-UK Soil Moisture (UKCEH)
+  abstract: Notebook developed to demonstrate how to load and visualise daily hydrometeorological and soil data from the 2013-2019 public COSMOS-UK dataset.
+  authors:
+    - id: acoca
+      name: Alejandro Coca-Castro
+      orcid: 0000-0002-9264-1539
+      github: acocac
+      corresponding: true
+      email: acoca@turing.ac.uk
+      roles:
+        - Investigation
+        - Software
+        - Visualization
+      affiliations:
+        - turing
+  reviewers:
+    - id: dkhamis
+      name: Doran Khamis
+      orcid: 0000-0002-2233-4752
+      github: dorankhamis
+      roles:
+        - Writing – review & editing
+      affiliations:
+        - ukceh
+    - id: mfry
+      name: Matt Fry
+      orcid: 0000-0003-1142-4039
+      github: mattfry-ceh
+      roles:
+        - Writing – review & editing
+      affiliations:
+        - ukceh
+  editors:
+    - acoca
+  affiliations:
+    - id: ukceh
+      name: UK Centre for Ecology & Hydrology
+    - id: turing
+      name: The Alan Turing Institute
+      department: Environment & Sustainability
+  subject: Surface and Ground Water
+  keywords:
+    - Surface and Ground Water
+    - Exploration
+    - Standard
+    - Python
+  venue:
+    title: Environmental Data Science Book
+    short_title: EDS Book
+    url: https://www.edsbook.org
+  issue:
+    name: Standard
+  thumbnail: images/thumbnail.png
+  requirements:
+    - environment.yml
+  doi: 10.5281/zenodo.8311780
+  github: https://github.com/eds-book/435f534c-e49b-43c3-9bd6-3393100bef3f
+  jupyter:
+    binder:
+      repo: eds-book/435f534c-e49b-43c3-9bd6-3393100bef3f
+  open_access: true
+  license:
+    content: CC-BY-4.0
+    code: MIT
+  date: 2023-09-02
+  toc:
+    - file: README.md
+    - file: notebook.ipynb
+  exports:
+    - format: pdf
+      template: curvenote
+      article: notebook.ipynb
+      output: exports/notebook.pdf
+    - format: cff
+      type: software
+      version: v2025.05.0
+      license: MIT
+      license-url: https://opensource.org/license/MIT
+      identifiers:
+        - description: "Open review report for this notebook"
+          type: url
+          value: "https://github.com/alan-turing-institute/environmental-ds-book/pull/50"
+  bibliography:
+    - references.bib
+
+site:
+  template: book-theme
